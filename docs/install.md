@@ -3,7 +3,7 @@
 ## 1. Clone repositori
 **Salin & Jalankan** ini di terminal
 ```
-git clone https://github.com/WahyuOwl/SandoAi.git
+git clone https://gitlab.com/wahyucoder231/SandoAi.git
 cd SandoAi
 ```
 
