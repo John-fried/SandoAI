@@ -1,8 +1,8 @@
 # Entitas Digital Tanpa Batas 🚀
 
 ### See:
-- [Mendapatkan API-key](https://github.com/WahyuOwl/SandoAi/tree/main/docs/apikey.md)
-- [Instalisasi](https://github.com/WahyuOwl/SandoAi/tree/main/docs/install.md)
+- [Mendapatkan API-key](https://gitlab.com/wahyucoder231/SandoAi/-/blob/main/docs/apikey.md?ref_type=heads)
+- [Instalisasi](https://gitlab.com/wahyucoder231/SandoAi/-/blob/main/docs/install.md?ref_type=heads#cara-menginstall-sando-ai)
 
 ## Apa itu Sando-Ai?
 
