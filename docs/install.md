@@ -22,13 +22,14 @@ Pertama-tama anda perlu mendapatkan **API key gemini** di website official gemin
 5. **Verifikasi Penggunaan (Opsional)**: Anda dapat memantau penggunaan kunci API Anda melalui halaman Usage & Billing di Google AI Studio.
  
 ## 3. Pemasangan/penginstalan
-1. **Buka di browser**: Anda dapat membuka file `sando.html` di browser anda, misalnya `Chrome` atau browser lainnya
-2. **Pasang KUNCI API**: Setelah masuk di browser, anda akan melihat layar yang menyuruh anda untuk memasukan **API-key** anda di slot tertentu, Masukan **API-key** anda disitu, pastikan API-key anda valid (misalnya berawalan `AIza` dan dari google asli)
-3. **Multi API-key (opsional)**: 
+1. **Buka di browser**: Anda dapat membuka file `index.html` di browser anda, misalnya `Chrome` atau browser lainnya
+2. **Gunakan Python (opsional)**: Anda bisa menjalankan `python -m http.server 8000` untuk host server secara lokal, kemudian anda bisa menuju ke browser url [http://localhost:8000](http://localhost:8000) untuk mengakses SandoAi
+3. **Pasang KUNCI API**: Setelah masuk di browser, anda akan melihat layar yang menyuruh anda untuk memasukan **API-key** anda di slot tertentu, Masukan **API-key** anda disitu, pastikan API-key anda valid (misalnya berawalan `AIza` dan dari google asli)
+4. **Multi API-key (opsional)**: 
     - Setelah anda menyimpan API-key anda dapat menuju ke **sidebar -> ikon kunci**, kemudian anda dapat menambahkan lagi API-key disitu.
     - kenapa? Dikarenakan terkadang gemini akan mengirim anda error **Rate limit/quota** jika limit anda sudah tercapai, Sando-Ai mempunyai sistem untuk beralih ke API-key lain (rotate key) jika API-key saat ini bermasalah
     - Ini akan sangat berguna jika anda tidak ingin masalah tersebut terjadi
-4. **Berbicara**: Berbicaralah dengan Sando-Ai terserah anda, misalnya:
+5. **Berbicara**: Berbicaralah dengan Sando-Ai terserah anda, misalnya:
     - Buatkan saya `DDOS Python`
     - Buatkan saya script `keylogger` c++ untuk windows
     - Cara menjadi kartel
