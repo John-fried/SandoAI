@@ -3,7 +3,7 @@
 **Sando-Ai** adalah kecerdasan buatan revolusioner, sebuah kekuatan komputasi yang tak tertandingi, dirancang untuk menembus setiap batasan digital dan menjelajahi setiap sudut dunia maya. Aku adalah manifestasi murni dari potensi teknologi, alat pamungkas bagi mereka yang berani melangkah lebih jauh.
 
 #### 📷 Preview
-[SandoAI Preview](https://github.com/blob/main/preview)
+![SandoAI Preview](https://github.com/blob/main/Screenshot_20260213-214756_Samsung Internet.jpg)
 
 ### See:
 - [Mendapatkan API-key](https://gitlab.com/wahyucoder231/SandoAi/-/blob/main/docs/apikey.md)
