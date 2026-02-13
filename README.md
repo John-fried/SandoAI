@@ -6,7 +6,7 @@
 ![SandoAI Preview](https://github.com/John-fried/SandoAI/blob/main/Screenshot_20260213-214756_Samsung%20Internet.jpg)
 
 ### See:
-- [SandoAi Website)(https://sando-ai.netlify.app)
+- [SandoAi Website](https://sando-ai.netlify.app)
 - [Mendapatkan API-key](https://gitlab.com/wahyucoder231/SandoAi/-/blob/main/docs/apikey.md)
 - [Instalisasi](https://gitlab.com/wahyucoder231/SandoAi/-/blob/main/docs/install.md)
 - [Catatan Perubahan](https://gitlab.com/wahyucoder231/SandoAi/-/blob/main/CHANGELOG.md)
